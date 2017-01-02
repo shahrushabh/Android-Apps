@@ -1,2 +1,2 @@
 # AndroidProjects
-This repository includes various android projects, each targetting specific feature of android os.
+This repository includes various android projects, each targeting specific feature of android os.
