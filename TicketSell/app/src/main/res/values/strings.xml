@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CySell</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_create_connection">createConnection</string>
+    <string name="title_activity_purchase_screen">purchaseScreen</string>
+    <string name="title_activity_create_listing">CreateListingActivity</string>
+    <string name="title_activity_confirm_create_listing">ConfirmCreateListingActivity</string>
+    <string name="form_game_hint">Opponent</string>
+    <string-array name="gamesList">
+        <item>UNI</item>
+        <item>IOWA</item>
+        <item>TOLEDO</item>
+        <item>KANSAS</item>
+        <item>TEXAS TECH</item>
+        <item>TCU</item>
+        <item>BAYLOR</item>
+        <item>OKLAHOMA STATE</item>
+    </string-array>
+    <string-array name="eventType">
+        <item>FOOTBALL</item>
+        <item>MENS BASKETBALL</item>
+        <item>woMENS BASKETBALL</item>
+        <item>SOCCER</item>
+        <item>VOLLEYBALL</item>
+        <item>SOFTBALL</item>
+        <item>TENNIS</item>
+        <item>CONCERTS</item>
+        <item>OTHER</item>
+    </string-array>
+    <string name="form_description_hint">Enter any additional details about the item</string>
+    <string name="form_offers_hint">Accept offers?</string>
+    <string name="form_submit_hint">Submit</string>
+    <string name="title_activity_server_test">ServerTestActivity</string>
+    <string name="form_section_hint">Ticket section...</string>
+    <string name="form_seat_hint">Ticket seat...</string>
+    <string name="form_date_hint">Date of event...</string>
+    <string name="form_description">Enter the following details, and press submit to see a confirmation.</string>
+    <string name="form_price_hint">Enter price...</string>
+    <string name="form_event_hint">Choose type of event...</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
